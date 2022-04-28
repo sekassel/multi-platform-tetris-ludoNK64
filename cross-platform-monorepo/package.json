@@ -11,6 +11,7 @@
     "ng": "ng",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
+    "start-pwa": "ng build tetris && http-server -p 8080 -c-1 dist/tetris",
     "start-electron": "npm-run-all -p electron:serve start:tetris",
     "start": "http-server -p $PORT -c-1 dist/tetris",
     "electron:serve-tsc": "tsc -p tsconfig.serve.json",
