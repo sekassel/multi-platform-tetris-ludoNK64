@@ -30,6 +30,7 @@
               "projects/tetris/src/favicon.ico",
               "projects/tetris/src/assets",
               "projects/tetris/src/manifest.webmanifest",
+              "projects/tetris/src/manifest.webmanifest",
               "projects/tetris/src/manifest.webmanifest"
             ],
             "styles": [
@@ -101,6 +102,7 @@
             "assets": [
               "projects/tetris/src/favicon.ico",
               "projects/tetris/src/assets",
+              "projects/tetris/src/manifest.webmanifest",
               "projects/tetris/src/manifest.webmanifest",
               "projects/tetris/src/manifest.webmanifest"
             ],
